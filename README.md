@@ -59,14 +59,13 @@ bash test_rsitmd.sh
 If this project helps your research, please cite our paper:
 
 ```
-@misc{song2026robustremotesensingimagetext,
-      title={Robust Remote Sensing Image-Text Retrieval with Noisy Correspondence}, 
-      author={Qiya Song and Yiqiang Xie and Yuan Sun and Renwei Dian and Xudong Kang},
-      year={2026},
-      eprint={2603.28134},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.28134}, 
+@InProceedings{song2026robust,
+    author={Song, Qiya and Xie, Yiqiang and Sun, Yuan and Dian, Renwei and Kang, Xudong},
+    title={Robust Remote Sensing Image-Text Retrieval with Noisy Correspondence},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month={June},
+    year={2026},
+    pages={9732-9741}
 }
 ```
 
